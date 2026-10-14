@@ -1,6 +1,6 @@
 [project]
 name = "string-width-calculator"
-version = "0.1.0"
+version = "0.1.1"
 description = "Determines terminal column width of text in monospace fonts, handling wide East Asian glyphs and invisible combining characters."
 requires-python = ">=3.10"
 dependencies = []
